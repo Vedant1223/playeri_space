@@ -14,7 +14,7 @@ print(Fore.CYAN+'''
 x = random.randint(10000,99999)
 unknown = x
 
-print(x)
+
 
 l = []        
 w = 0
