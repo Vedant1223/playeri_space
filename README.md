@@ -5,7 +5,7 @@
 1. Colorama 
 2. random
 
-'''refer to the original game 
+```refer to the original game 
 [WORDLE](https://www.nytimes.com/games/wordle/index.html)
 
 
