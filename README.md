@@ -1,7 +1,7 @@
-#HI
+#HI#
 
 
-###This python project is simple it uses these libraries 
+###This python project is simple it uses these libraries ###
 1. Colorama 
 2. random
 
